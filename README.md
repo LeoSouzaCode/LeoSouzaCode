@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eu sou o Leo
+# E ai, blz? Eu sou o Leo
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
@@ -30,6 +30,6 @@ Estudando programação e desenvolvimento de software
 
 <div align="center">
 
-*Obrigado pela visita! ⭐*
+*Volte sempre*
 
 </div>
