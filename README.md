@@ -1,12 +1,12 @@
 <div align="center">
 
-# Olá! Eu sou o Leo 👋
+# Eu sou o Leo
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-☕ Focado em Java e suas aplicações  
-💻 Estudando programação e desenvolvimento de software  
-🚀 Construindo projetos e evoluindo um passo de cada vez
+Focado em Java e suas aplicações  
+Estudando programação e desenvolvimento de software  
+
 
 </div>
 
